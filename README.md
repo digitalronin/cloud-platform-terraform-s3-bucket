@@ -1,6 +1,6 @@
 # cloud-platform-terraform-s3-bucket module
 
-![Releases](https://img.shields.io/github/release/ministryofjustice/cloud-platform-terraform-s3-bucket.svg)
+<img src="https://img.shields.io/github/release/ministryofjustice/cloud-platform-terraform-s3-bucket.svg" alt="Releases" />
 
 Terraform module that will create an S3 bucket in AWS and a relevant user account that will have access to bucket.
 
